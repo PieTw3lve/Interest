@@ -3,4 +3,5 @@ main: com.github.pietw3lve.Interest
 version: 1.0.0
 api-version: 1.15
 authors: ['PieTw3lve']
-description: A simple interest plugin.
+website: https://github.com/PieTw3lve/Interest
+description: A simple and lightweight Minecraft plugin that adds interest to player balances. 
