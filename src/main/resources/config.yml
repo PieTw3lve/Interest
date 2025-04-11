@@ -1,0 +1,4 @@
+notification: true
+timezone: "America/New_York"
+target-time: "00:00"
+interest: 0.001
